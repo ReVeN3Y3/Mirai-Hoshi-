@@ -102,9 +102,6 @@ nav {
     display: none;
 }
 
-
-
-
 @media (max-width: 1000px) {
     .hideOnMobile {
         display: none;
